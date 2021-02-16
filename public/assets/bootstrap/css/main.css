@@ -1,0 +1,69 @@
+.nav-link{
+    color: white!important;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color:#fd972e!important;
+    font-weight: bold;
+}
+
+.hero-image{
+    background-image: url('/assets/img/home-1.png')!important;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.color-orange{
+    color:#fd972e!important;
+}
+
+.color-white{
+    color: white!important;
+}
+
+.color-dongker{
+    color: #09162a!important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.bg-orange{
+    background-color:#fd972e!important;
+}
+
+.bg-white{
+    background-color: white!important;
+}
+
+.bg-dongker{
+    background-color: #09162a!important;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+.hover-to-orange:hover{
+    background-color: #fd972e!important;
+}
+
+.our-team:hover{
+    color: #fd972e!important;
+    background-color: white!important;
+}
+
+.blog{
+    background-color: rgb(236, 236, 236);
+}
+
+.hover-text-orange:hover{
+    color: #fd972e!important;
+}
